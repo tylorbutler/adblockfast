@@ -1,0 +1,19 @@
+{
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.alwaysShowEditorActions": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": true,
+    "screencastMode.keyboardOptions": {
+        "showCommandGroups": true
+    },
+    "cmake.options.statusBarVisibility": "visible"
+}
